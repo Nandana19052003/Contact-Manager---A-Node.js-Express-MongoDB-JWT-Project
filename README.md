@@ -21,5 +21,4 @@ JWT_SECRET=your-secret-key
 
 ## Usage
 Start the server:
-npm start
-Open your web browser and go to http://localhost:5000 to access the Contact Manager
+npm run dev
